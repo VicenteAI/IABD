@@ -1,7 +1,7 @@
 # IABD
-Repositorio como alumno del Curso de especialización de Inteligencia Artificial y Big Data.
+### Repositorio como alumno del Curso de especialización de Inteligencia Artificial y Big Data.
 
-**Explicación de la Tarea PIA01**
+###### **Explicación de la Tarea PIA01**
 
 En esta primera tarea se encuentra dividida en dos partes:
 
